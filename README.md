@@ -1,6 +1,6 @@
-# Body Donation Consent Certificate Generator
+# Certificate Generator
 
-A lightweight web application that generates professional **Body Donation Consent Certificates** in PDF format.
+A lightweight web application that generates professional **Certificates** in PDF format.
 
 The certificate is designed using **HTML and CSS** and rendered into a PDF using **WeasyPrint**, allowing modern web technologies to produce print-ready documents.
 
