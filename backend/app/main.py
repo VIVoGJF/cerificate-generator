@@ -12,7 +12,7 @@ app = FastAPI(
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins = ["*"],
+    allow_origins = ["https://cerificate-generator-vert.vercel.app",],
     allow_methods=["*"],
     allow_headers=["*"],
     expose_headers=["X-Certificate-Number"]
